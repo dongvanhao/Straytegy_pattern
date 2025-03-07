@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "S8BPnPCehFBD48JmcHqngE9WIVsQdfJ2RNRuwbBsx34=",
+  "Source": "PaymentAPI(Strategy)",
+  "BasePath": "_content/PaymentAPI(Strategy)",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
